@@ -5,8 +5,8 @@ Procedural generator of map
 
 Linux only - console application
 Launch : 
-"chmod 755 run.bash"
-"./run.bash"
+* "chmod 755 run.bash"
+* "./run.bash"
 
 
 1. Start generation
